@@ -1,1 +1,3 @@
-# MNIST_PyTorch
+# pytorchProject
+
+pytorch playground for coding practice
