@@ -7,4 +7,5 @@ import seaborn as sns
 %matplotlib inline
 
 
-dataset = pd.read_csv("")
+dataset = pd.read_csv("/Users/binjang/Document/pyTorchPractice/pytorchProject/car_evaluation.csv") # dataset path
+
